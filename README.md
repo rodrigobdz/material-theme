@@ -23,13 +23,13 @@ Please read the [Known Issues](https://github.com/equinusocio/material-theme#kno
 
 I was a Sublime Text user for years. For years sublime text 2 has not received updates, it was totally abandoned by is author, until wbond and others start working on it. After 3 years of v3 beta and only bugfixing i can consider it an obsolete commercial software. Now v3 is out and there are not new features, out of the bos ST is like a commercial Nodepad++ . Is not hard to think:
 
-- a 80$ commercial software that is 80% cracked or used in free mode.
+- a $80 commercial software that is 80% cracked or used in free mode.
 - No modern languages integrations built-in. You have to hope that some developer build an extension.
 - No linters integrations
 - No automplete across files for css, html, js, typescript etc (without some RAM-eater extensions)
 - Lack of functionalities, like markdown preview, svg preview, tasks, git..
 - Theme engine obsolete and very hard to manage.
-- Closed community with not support.
+- Closed community with no support.
 - And many other issues
 
 Visual studio code, atom or IntelliJ have a lot of built-in features, and **vsc and atom are free, open source with a huge community and monthly USEFUL updates**. **With vsc or intellij, you need extension to EXTEND the software, not to build it.** With ST you install the basic text editor and you have to install a lot of extensions to make it a bit useful,  It is fast, yes, but because it does not have anything.
